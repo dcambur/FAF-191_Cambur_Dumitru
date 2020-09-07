@@ -1,1 +1,3 @@
-# FAF-191_Cambur_Dumitru
+Name: Cambur_Dumitru 
+Group: FaF-191
+Topic: Computers and Networks Laboratory Works Repository
